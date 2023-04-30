@@ -14,7 +14,8 @@ Docker compose project for tracking Starlink Dishy and Network statistics with G
 1. Clone the repo. (Suggested to clone into your `/opt` directory)
 
    ```bash
-   git clone https://github.com/sponsianus/dishy_grafana
+   git clone https://github.com/MiloVeritas/dishy_grafana
+
     ```
 
 1. Copy `default.env.tpl` to `default.env` and **edit the variables** to suite your needs.
